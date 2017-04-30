@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 require 'find'
 
-# Programming Assignment 1 - WHOIS Client
+# Programming Assignment 2 - 'ls' Client
 # Author - Lane Mills
 # Date - 01 May 2017
 
